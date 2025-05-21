@@ -749,42 +749,42 @@
         "flow": "safeguarding_entry - generic",
         "enabled": "start",
         "kw_type": "safeguarding",
-        "proceed": "@child.results.proceed"
+        "proceed": "no"
       },
       {
         "ID": "mental_health",
         "flow": "safeguarding_entry - mental_health",
         "enabled": "start",
         "kw_type": "safeguarding",
-        "proceed": "@child.results.proceed"
+        "proceed": "no"
       },
       {
         "ID": "health",
         "flow": "safeguarding_entry - health",
         "enabled": "start",
         "kw_type": "safeguarding",
-        "proceed": "@child.results.proceed"
+        "proceed": "no"
       },
       {
         "ID": "violence",
         "flow": "safeguarding_entry - violence",
         "enabled": "start",
         "kw_type": "safeguarding",
-        "proceed": "@child.results.proceed"
+        "proceed": "no"
       },
       {
         "ID": "natural_disasters",
         "flow": "safeguarding_entry - natural_disasters",
         "enabled": "start",
         "kw_type": "safeguarding",
-        "proceed": "@child.results.proceed"
+        "proceed": "no"
       },
       {
         "ID": "drugs",
         "flow": "safeguarding_entry - drugs",
         "enabled": "start",
         "kw_type": "safeguarding",
-        "proceed": "@child.results.proceed"
+        "proceed": "no"
       },
       {
         "ID": "help",
