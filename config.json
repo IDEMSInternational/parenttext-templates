@@ -1,6 +1,6 @@
 {
     "meta": {
-        "version": "1.0.8",
+        "version": "1.0.9",
         "pipeline_version": "1.0.0"
     },
     "flows_outputbasename": "parenttext_all",
