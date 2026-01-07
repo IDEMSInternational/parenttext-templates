@@ -28,7 +28,8 @@
                 "T_safeguarding",
                 "T_delivery",
                 "T_menu",
-                "T_trial"
+                "T_trial",
+                "N_globals"
             ]
         },
         "edits_pretranslation": {
