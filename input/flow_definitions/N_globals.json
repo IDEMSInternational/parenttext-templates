@@ -5,7 +5,7 @@
   "sheets": {
     "content_index": [
       {
-        "type": "globals_dict",
+        "type": "globals",
         "sheet_name": "parenttext_globals",
         "data_sheet": "",
         "data_row_id": "",
