@@ -7,7 +7,6 @@
     "output_split_number": 1,
     "sheet_names": {
         "T_content": "1IlKACAmKqILhpumKRiTf8ovWO7h7MIJurIYqj-SgMXo",
-        "T_onboarding": "1wl22i1ZA-jvz_UysRk2hRdvGgYTSyA5Oa1uk7gIQ2rc",
         "T_safeguarding": "1RZLY7GGILdBHkc4G-tzymYbNN0lvONgXJlPjG9Ol19I",
         "T_delivery": "1D54mvGh0Scbhv1rqCOFxqonxOtglLsYINkvuIceQV6c",
         "T_menu": "1IMV1slKvWN3P330v6S73JHlegjMHhPNSN3EW7UhiGUg",
@@ -23,7 +22,6 @@
             "format": "sheets",
             "subformat": "google_sheets",
             "files_list": [
-                "T_onboarding",
                 "T_content",
                 "T_safeguarding",
                 "T_delivery",
