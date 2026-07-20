@@ -4802,7 +4802,7 @@
         "condition_type": "",
         "condition_name": "",
         "include_if": "",
-        "message_text": "Sorry, I don't understand what you mean.",
+        "message_text": "{{globals.unrecognised_response_message}}",
         "data_sheet": "",
         "data_row_id": "",
         "choices.1": "",
