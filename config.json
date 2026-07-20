@@ -23,7 +23,6 @@
             "format": "sheets",
             "subformat": "google_sheets",
             "files_list": [
-                "T_onboarding",
                 "T_content",
                 "T_safeguarding",
                 "T_delivery",
